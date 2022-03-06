@@ -1,3 +1,4 @@
+![Hits](https://itsjinendrajain.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fitsjinendrajain%2FCodingNinjas-Java-Solution)
 # Coding Ninjas Java Solution
 This repo Provide all Coding Ninjas Java Solution. 
 This will have solutions to all the problems that are included in Coding Ninja's 2021 Java Course. Star the repo if you like it.
